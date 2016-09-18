@@ -4,7 +4,7 @@
 }
 * a {
   text-decoration:none;
-  color: blue;
+  color: #222;
 }
 h3 {
   font-size:30px;
@@ -12,4 +12,9 @@ h3 {
 }
 p{
   margin:12px 0 0 20px;
+}
+p span {
+  color:blue;
+  font-size:20px;
+  text-decoration:underline;
 }
