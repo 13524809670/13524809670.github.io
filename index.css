@@ -2,19 +2,19 @@
   margin:0;
   padding:0;
 }
-* a {
-  text-decoration:none;
-  color: #222;
-}
-h3 {
-  font-size:30px;
-  color :red;
-}
-p{
-  margin:12px 0 0 20px;
-}
-p span {
-  color:blue;
-  font-size:20px;
-  text-decoration:underline;
-}
+/** a {*/
+/*  text-decoration:none;*/
+/*  color: #222;*/
+/*}*/
+/*h3 {*/
+/*  font-size:30px;*/
+/*  color :red;*/
+/*}*/
+/*p{*/
+/*  margin:12px 0 0 20px;*/
+/*}*/
+/*p span {*/
+/*  color:blue;*/
+/*  font-size:20px;*/
+/*  text-decoration:underline;*/
+/*}*/
